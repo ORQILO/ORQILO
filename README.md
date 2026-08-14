@@ -1,5 +1,7 @@
 # ORQILO
 
+![ORQILO](assets/orqilo-github-banner-v2.png)
+
 **AI-powered career platform helping professionals build better careers.**
 
 ORQILO is building a smarter, more personalized way to navigate career growth — from resumes and ATS optimization to interview preparation, career planning, and discovering better opportunities.
